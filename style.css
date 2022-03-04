@@ -1,0 +1,7 @@
+html, body {
+    height: 100%;
+}
+
+.body-1, .body-2, .body-3 {
+    height: 500px;
+}
